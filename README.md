@@ -131,7 +131,7 @@ A modern school management web application designed to streamline academic and a
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiShinde18&repo=next-portfolio&theme=rose_pine&hide_border=true" />
 </a>
 
-<a href="https://github.com/KirtiShinde18/YOUR-SECOND-REPO">
+<a href="https://github.com/KirtiShinde18/Solar-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiShinde18&repo=YOUR-SECOND-REPO&theme=rose_pine&hide_border=true" />
 </a>
 
