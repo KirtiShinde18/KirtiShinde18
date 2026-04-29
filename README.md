@@ -4,7 +4,7 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kirti!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋🏻;+Myself+Kirti!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
@@ -103,6 +103,47 @@ A modern school management web application designed to streamline academic and a
   <br />
   <br />
   <br />
+
+  <!-- 🌸 Stats Section -->
+
+<h2 align="center">💖✨ GitHub Stats ✨💖</h2>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=KirtiShinde18&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KirtiShinde18&show_icons=true&theme=rose_pine&hide_border=true" />
+</p>
+
+
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KirtiShinde18&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- 🎀 Projects Section -->
+
+<h2 align="center">🌸✨ Featured Projects ✨🌸</h2>
+
+<p align="center">
+
+<a href="https://github.com/KirtiShinde18/next-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiShinde18&repo=next-portfolio&theme=rose_pine&hide_border=true" />
+</a>
+
+<a href="https://github.com/KirtiShinde18/YOUR-SECOND-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiShinde18&repo=YOUR-SECOND-REPO&theme=rose_pine&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/KirtiShinde18?tab=repositories">
+    💖✨ Explore More Projects ✨💖
+  </a>
+</p>
+
+
 </div>
 
 
