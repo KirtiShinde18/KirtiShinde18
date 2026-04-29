@@ -132,7 +132,7 @@ A modern school management web application designed to streamline academic and a
 </a>
 
 <a href="https://github.com/KirtiShinde18/Solar-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiShinde18&repo=YOUR-SECOND-REPO&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiShinde18&repo=Solar-System-REPO&theme=rose_pine&hide_border=true" />
 </a>
 
 </p>
