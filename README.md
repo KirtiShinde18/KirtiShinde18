@@ -86,7 +86,7 @@ A modern school management web application designed to streamline academic and a
 </p>
 
 <p>
-<a href="https://e-saraswati.vercel.app/">
+<a href="https://esaraswati.in/">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
