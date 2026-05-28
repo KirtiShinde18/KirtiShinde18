@@ -146,4 +146,22 @@ A modern school management web application designed to streamline academic and a
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3000&pause=2000&color=BD93F9&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Learning%2C+Living%2C+and+Leveling+Up.+%E2%9C%A8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Designed%20%26%20Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Kirti%20Shinde-bd93f9?style=flat-square&labelColor=282a36" />
+
+<br>
+
+<img src="https://img.shields.io/badge/%C2%A9%202026-All%20Rights%20Reserved-ff79c6?style=flat-square&labelColor=282a36" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:282a36&height=80&section=footer" width="100%" />
+
+</div>
+
 
